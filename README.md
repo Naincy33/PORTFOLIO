@@ -1,36 +1,121 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 💼 Naincy's Portfolio
 
-## Getting Started
+🌐 Live Website: https://portfolio-one-flame-78.vercel.app/
 
-First, run the development server:
+---
+
+## ✨ About
+
+This is my personal **portfolio website** built using **Next.js**, where I showcase my projects, skills, and academic journey.
+
+I’m a **Computer Science Engineering student** passionate about building modern, scalable, and visually appealing web applications.
+
+This portfolio reflects my focus on:
+
+* Clean UI & user experience
+* Real-world project building
+* Continuous learning & experimentation
+
+---
+
+## 🚀 Tech Stack
+
+* ⚛️ Next.js
+* ⚛️ React.js
+* 🎨 CSS (Custom Styling)
+* 🖼️ Next/Image
+
+---
+
+## 📂 Features
+
+* 🔥 Full-screen Hero Section
+* 📁 Projects Section (Dynamic Cards)
+* 🧠 Skills Section (Categorized)
+* 🎓 Academics Timeline
+* 📬 Contact Page with Form & Social Links
+* 📄 Resume Download
+
+---
+
+## 🧩 Projects
+
+### 🎉 EPOCH
+
+College event management website
+
+### 🛒 DEALDROP
+
+Price comparison website using web scraping
+
+### 💡 INNOVEST
+
+A social media platform for sharing ideas
+
+### 💼 Portfolio
+
+This personal portfolio built using Next.js
+
+---
+
+## ⚙️ Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Naincy33/My_Portfolio.git
+cd My_Portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🚀 Deployment
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Deployed on **Vercel**
 
-## Learn More
+Steps:
 
-To learn more about Next.js, take a look at the following resources:
+1. Push code to GitHub
+2. Import project in Vercel
+3. Deploy instantly 🚀
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📬 Connect With Me
 
-## Deploy on Vercel
+* GitHub: https://github.com/Naincy33
+* LinkedIn: https://linkedin.com/in/your-link
+* Email: [iamnaincy33@gmail.com](mailto:iamnaincy33@gmail.com)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🌟 Highlights
+
+* Responsive & modern UI
+* Clean folder structure
+* Optimized images using Next.js
+* Smooth navigation experience
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
+
+---
+
+## 📌 Note
+
+This portfolio will be continuously updated as I build more projects and improve my skills.
