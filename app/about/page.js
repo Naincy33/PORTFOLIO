@@ -49,7 +49,7 @@ export default function About() {
 
           {/* BUTTONS */}
           <div className="about-btns">
-            <a href="/Resume.pdf" download className="btn-primary">
+            <a href="/RESUME.pdf" download className="btn-primary">
               Download Resume
             </a>
 
