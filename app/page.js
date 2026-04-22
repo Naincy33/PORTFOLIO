@@ -1,20 +1,13 @@
-import Image from "next/image"
-import { projects } from "@/data/projects"
-import { skills } from "@/data/skills"
+import Image from "next/image";
+import { projects } from "@/data/projects";
+import { skills } from "@/data/skills";
 
 export default function Home() {
   return (
     <main>
-
       {/* 🔥 HERO */}
       <section className="hero">
-
-        <Image
-          src="/mine.png"
-          fill
-          alt="hero"
-          className="hero-img"
-        />
+        <Image src="/mine.png" fill alt="hero" className="hero-img" />
 
         <div className="overlay"></div>
 
@@ -23,19 +16,22 @@ export default function Home() {
           <h2>Tech Enthusiast</h2>
 
           <p>
-            I build modern, scalable and aesthetic web experiences using React & Next.js.
+            I build modern, scalable and aesthetic web experiences using React &
+            Next.js.
           </p>
 
           <div className="hero-buttons">
-            <a href="#projects" className="btn-primary">View Projects</a>
-            <a href="/contact" className="btn-outline">Contact Me</a>
+            <a href="#projects" className="btn-primary">
+              View Projects
+            </a>
+            <a href="/contact" className="btn-outline">
+              Contact Me
+            </a>
           </div>
         </div>
-
       </section>
 
-
-        {/* 🔥 SKILLS */}
+      {/* 🔥 SKILLS */}
       <section className="skills">
         <h2 className="section-title">Skills</h2>
 
@@ -58,15 +54,24 @@ export default function Home() {
           {projects.map((p, i) => (
             <div className="card" key={i}>
               <img src={p.image} alt={p.title} />
-              <h3>{p.title}</h3>
-              <p>{p.desc}</p>
+
+              <div className="card-content">
+                <h3>{p.title}</h3>
+                <p>{p.desc}</p>
+
+                <a
+                  href={p.github}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="github-btn"
+                >
+                  View Code
+                </a>
+              </div>
             </div>
           ))}
         </div>
       </section>
-
-    
-
     </main>
-  )
+  );
 }

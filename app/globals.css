@@ -59,26 +59,47 @@ html {
   width: 100%;
 }
 
-.hero-img {
-  object-fit: cover;
+/* 🔥 HERO */
+.hero {
+  position: relative;
+  min-height: 100vh;
+  width: 100%;
+  overflow: hidden;
 }
 
+/* IMAGE FIX */
+.hero-img {
+  object-fit: cover;
+  object-position: 75% center; /* 🔥 IMAGE RIGHT SHIFT */
+  z-index: -1;
+}
+
+/* OVERLAY */
 .overlay {
   position: absolute;
   inset: 0;
-  background: linear-gradient(to right, rgba(0,0,0,0.85), transparent);
+  background: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0.9) 30%,
+    rgba(0, 0, 0, 0.6) 55%,
+    transparent 80%
+  );
+  z-index: 1;
 }
 
+/* CONTENT */
 .hero-content {
   position: absolute;
   top: 50%;
   left: 8%;
   transform: translateY(-50%);
-  max-width: 500px;
+  max-width: 520px;
+  z-index: 2;
 }
 
 .hero-content h1 {
-  font-size: 60px;
+  font-size: 64px;
+  font-weight: 700;
 }
 
 .hero-content h2 {
@@ -89,6 +110,7 @@ html {
 .hero-content p {
   margin: 20px 0;
   color: #bbb;
+  line-height: 1.6;
 }
 
 /* BUTTONS */
@@ -408,4 +430,131 @@ html {
 
 .about-photo:hover {
   transform: scale(1.05);
+}
+
+.contact-page {
+  min-height: 100vh;
+  padding: 80px 10%;
+  background: #000;
+  color: #fff;
+}
+
+.contact-container {
+  display: flex;
+  gap: 60px;
+  align-items: flex-start;
+}
+
+.contact-left {
+  flex: 1;
+}
+
+.contact-left h1 {
+  font-size: 60px;
+  margin-bottom: 20px;
+}
+
+.contact-left p {
+  color: #aaa;
+  max-width: 400px;
+}
+
+.contact-right {
+  flex: 1;
+}
+
+.contact-box {
+  background: #111;
+  padding: 30px;
+  border-radius: 16px;
+  margin-bottom: 30px;
+}
+
+.contact-box h2 {
+  margin-bottom: 20px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  margin-bottom: 15px;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #333;
+  background: #000;
+  color: #fff;
+}
+
+.contact-form textarea {
+  height: 120px;
+  resize: none;
+}
+
+.contact-form button {
+  width: 100%;
+  padding: 12px;
+  border-radius: 30px;
+  border: none;
+  background: #fff;
+  color: #000;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.contact-form button:hover {
+  background: #ddd;
+}
+
+.success-msg {
+  color: #0f0;
+  font-size: 14px;
+}
+
+.social-section h3 {
+  margin-bottom: 15px;
+}
+
+.social-grid {
+  display: flex;
+  gap: 20px;
+}
+
+.social-grid a {
+  background: #111;
+  padding: 15px;
+  border-radius: 12px;
+  text-align: center;
+  width: 100px;
+  text-decoration: none;
+  color: #fff;
+  transition: 0.3s;
+}
+
+.social-grid a:hover {
+  transform: translateY(-5px);
+}
+
+.social-grid img {
+  width: 30px;
+  margin-bottom: 8px;
+}
+
+.card-content {
+  padding: 15px;
+}
+
+.github-btn {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 8px 15px;
+  border-radius: 20px;
+  background: white;
+  color: black;
+  text-decoration: none;
+  font-size: 14px;
+  transition: 0.3s;
+}
+
+.github-btn:hover {
+  background: #ddd;
 }
