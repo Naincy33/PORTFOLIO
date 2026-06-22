@@ -1,8 +1,8 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
@@ -17,40 +17,63 @@ endobj
 endobj
 4 0 obj
 <<
-/BaseFont /ZapfDingbats /Name /F3 /Subtype /Type1 /Type /Font
+/A <<
+/S /URI /Type /Action /URI (mailto:iamnaincy33@gmail.com)
+>> /Border [ 0 0 0 ] /Rect [ 199.9678 771.8898 311.8078 783.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://www.linkedin.com/in/naincy-5313551b3/)
->> /Border [ 0 0 0 ] /Rect [ 78 705.8898 115.8 717.8898 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 210.9178 759.8898 248.7178 771.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://github.com/Naincy33)
->> /Border [ 0 0 0 ] /Rect [ 123.96 705.8898 155.08 717.8898 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 256.8778 759.8898 287.9978 771.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://portfolio-one-flame-78.vercel.app/)
->> /Border [ 0 0 0 ] /Rect [ 163.24 705.8898 199.92 717.8898 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 296.1578 759.8898 332.8378 771.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://leetcode.com/u/Naincy33/)
->> /Border [ 0 0 0 ] /Rect [ 208.08 705.8898 251.44 717.8898 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 340.9978 759.8898 384.3578 771.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
-/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R ] /Contents 13 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 12 0 R /Resources <<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/Naincy33/INNOVEST)
+>> /Border [ 0 0 0 ] /Rect [ 198.25 440.8898 229.37 452.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/Naincy33/car-price-prediction-ml)
+>> /Border [ 0 0 0 ] /Rect [ 239.39 401.8898 270.51 413.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/Naincy33/indian_startup_analysis)
+>> /Border [ 0 0 0 ] /Rect [ 284.41 323.8898 315.53 335.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R ] /Contents 16 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 15 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -58,55 +81,58 @@ endobj
 >> /Type /Page
 >>
 endobj
-10 0 obj
+13 0 obj
 <<
-/PageMode /UseNone /Pages 12 0 R /Type /Catalog
+/PageMode /UseNone /Pages 15 0 R /Type /Catalog
 >>
 endobj
-11 0 obj
+14 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260422141021+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260422141021+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author (\(anonymous\)) /CreationDate (D:20260622135240+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260622135240+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
   /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
 >>
 endobj
-12 0 obj
+15 0 obj
 <<
-/Count 1 /Kids [ 9 0 R ] /Type /Pages
+/Count 1 /Kids [ 12 0 R ] /Type /Pages
 >>
 endobj
-13 0 obj
+16 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1532
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1751
 >>
 stream
-Gat=*>BALX'RnB33);VXQa$8%/PcboC$5VlZ-uH\nfhnh;(G:G=XI]mJ,CA@glfZPg0k2EFmf+OGE)i4r)i')PQFNFq")o8bD,L-/@XY+3!VZ1qrc2W8IgJ/E37E)3#\Lq*d#R-Q(4PNFYJT..@RQY)B)P_D%'Rb?H7)u6TblhBJ%92V>''lKO5o#*R::KU=51uH0X$'*?7:.lLmt^H4l*8`aY2FPf\&B7/O4YQ*Yg;M6oYgd8=rY)Al$L@3XDdc<j.8)"0jJL&YO.r^JC_]/SqXY2(1a![dNiS;D/@SlI8B]ueiPVQYmMZ^32AoY'<Z5'oMl<-pBtqf9DM^])<RX'`X1r5>/;AOaQmUXdW^j_X?PE4]52Dn\()mod'tXkp,Xm=#ecZ]Zr:AfIIY%%^/!6;n%R`2JJ?jLU/Hd.#-K"9).q,]GCE&JNEbaFOYb&l&)jD-2n`JI)[)8sE^-C%'Mb&J;ol_)VXe7,MBE2jDK:7I(u`^LpN2(1Lco>qd=p1?9&+ABcPcdP[+;j"/nE2V'PfEZQa>U#OuVQb4^m3j9fRN_c#ZOL6Vri7Z+P<L!"E8#^_AR?D5Ic(W5'#n_i/22`s].AB*7\5srP./kge1u:s9()ss'Y@8aK]rU8=)p]]&HT%K$9`an_[GZ!/K=^1d1cKVo:./!AK]X)Tg?Jnlg@0Z08.[59kr*e:hd\0C,"=C(nHI]E''[]n]F@O1]m@0q(N\(4Ji6;ue-IIc*E=JCMc+VQKeMO"(Q.?84s-U0hUWr2!A+kCE]QM9D1do@V]l?Ors"BA`f:j-9IN?@g)?@DN(_FK\m5>]Ci2FLq2YeFRe<JNfHOuce*+L9U/_fi!i&.RA"H5FSW]_8lg*(u1R+&t#4bV1:.VAH,2I^Op*-'Z]=aG@558I:L`k<PKs5>qFU59K!G)31TUCTR&Z4lZ0![j<T<W_NmVJ\sZDQ]%(]JO3L(2<6_V)\8kO0=sJmr4S3htD3k6u.\iRMIlr'YU376;/%Ho;ZCj",hpehuG!_n19iEd#9jcB-217MX]75t&Ws8(Pjdnt;I$`Ym8-_g+"dIO6@*PL2`4hnm-2K"j&9I&?5"C&2ikL;qR2P/]:QE13f6RLk?'bVXHf;u&?'1i6!dI\&RFkSFo$,/$d;bc4cHMFFllCdbO552Ri5).C*9CljYGp<F,ZPbTDAeqWC]$6%[/3?NTEQ]F9Jr*njcdp$`1cE<L.T']r<2!d.p+8a$r@+#?1@`&S$`4"L0>uN9O*T"K1au3B*=Ba!a6:'I\0+qejSE)[(@7!CLGbGK"Ye9_2nHFk4DIX%Ho?2<+AmmkThUoH/q4IS=^MKc2gT"fmbH5?6^>1n60<r8PgXCl00&]\X/CkR0%P\ZPKuG6^rf/bVBlR&W6.Peu%`)bWPbP*p\F6);e6!m'ZA<)R&r-io>&__AIcBO$JA.pp*F!VQ@6B1gB!HX6GKXe<7)tcYl3*@#BP2_0Otm^";cL*/fC)m%Ah+#M1lhY2/QB!eh*6pX((.ffe$bcF4N#kP,jKUs~>endstream
+Gatm;>BALX'RnB33);VX93c"dJNbY&-_Up$!q#F$j@->-;.E8%/<_iq5CSZP\\qbH-,[Y\[a+8%ht\N'2"3kiCQJPg(\$[L!3ot;"QEMn/4SPNDLUH(Eb2QZm7u9uFLiL"^_`!iKo0cpQL*G`U5&l"fjHn]QYd[;2JH?t6TV_b&OL?_)c"%q5/?._/:L*Q2fCG9=8]^jgcCJn-6R;%5iNEWlaBG&U^1-<e1aJ\;M?$eM4e)VRqD8Q.%rc3!gsaZeDO^/fHnnP>A]]d[bEDURfl=#lF+jb7pN^2E%(E<gREPm+7eU;_l6U].:Xt\cUWq.:PNZr!,:1gQaACHJ?X7bG0<;kg.*h.Gf@EN2cdt:4"UNan(IZ!-p/d5OI#"\%9#Y'o5j]\HcOZ<[XAk=+uX/G?*KcW<i9G[jV4Dg/9#bX+9`(U[FgP/5PXC6(;n27Y4-M7G.W`lX`fV'2n.&>:R^%I(+`Pg(Z<C\br&ER%lb4'KAXH\&JpBT/tsQfJK:UBrUCkeig<.CjRRP8*VrGt1sT+8-Uc3sfZo[t]D148[IoVYc+BVA5"!qB5*<k8>2@2F@Cu$BLWRp/NF;bKE&="j$eo]kQQY^XlO],ULiOE=m.1O>du@[*;26fH9t/`"TQmL&i9c(W_WX`dTpZ0^*R,E1[.PZE_hA!BhE3@/,P3da@lL45R8u.-kHn$;Qa8k'3,XEts&Z4&QJqd&qZ57>R:bX))bUdb6,*oic2?nkSFMsN.qB*J(f^X*F6WkH"5dO<Oi`.nZplh1RHD>TLBA<2EsE)l(a_D@,*WDh8R,]nN%$AanpkJ]BT0@<(X(Kk^mTqN=)(RWPN`;;U,n:1NqmbPfXu0O>?$3A%=30,@oVWKS]jqWUk^t%L)S:`_rKbk9>a?%"3P1p6-VgD>VQ?W<Q[4hn"rF$:]8tnT6U@CJ53"`Bh%IWobjb"!6(ipK^W11SAm6Negl<GiPdP_4iKaj1GHZlA;k&,fa2t#k]-d(2(f`nJR0B4s#kci.+/cC\"T.c0kVY_VXMUt<6;ppb,AEO=9?f/O$f*Ep)_j)ASoU6D;t/Z3QnL]cbH9m%1dDPC2sb??Sf'dnHN-c'n3GNASTIG>ScdC2@PR5_LsO)?Ga8'H*>4_B9-DIDfJeRm&k^2+Rq\Nb>8K?*=))Xp/+?r9W/!T5j39eK*/?!9p$#:n;pN&Ze"?n^]eFGn^O3EGia5T1tO7*>0_F7dbU;m:]l?:U9t8QaOIPl.P1G$/u]UWg^:A^VHIs'C3<i[O/@fp(-*u$/&dnXGN+'&%+iZAYVh>MMO[LiA\0guKJ4HafpDfk#rt2\%5<dK80crgJSts\.Qg0TWfZsaD>s1THT4sJfUkkHr4u#PkIWj:D_ptdh4%^r8G%_/Ba`M1bq?A?b1e8.ko$6t*1g^m?aGYN%RnI<fTW"A"tS`3)K9B+:::[ZID$4kVG,j&48X^9R'Tb]X[LMkR[NTFb[?is66OL(N9T__,=f#OV9tSRVJ:g3D$G<_A0.k7Fr@T'2gr*I7U2L6gNDChrd3M>d/WNprQ00k+PkTp%;</0-/eFY_j2Sg/&Udn`Rl0kc-D7Q`s3k"2,-EV`bj#m:BZ!0$c1?[\$Qk?30M7,FCHr]4/baTMcl\bHo!F(*YgES)4,&D0^bnuPLqf:-P>Ms?DCs%K\C6!5+Wfkb24Kn"nFZc8QJI1M)@S7(spNaLU)q#14rV_l^hPLKgM6qctk5c8sV^NL\%0Zc9=&qDZ0`l\+jb~>endstream
 endobj
 xref
-0 14
+0 17
 0000000000 65535 f 
-0000000073 00000 n 
-0000000124 00000 n 
-0000000231 00000 n 
-0000000343 00000 n 
-0000000426 00000 n 
-0000000614 00000 n 
-0000000789 00000 n 
-0000000979 00000 n 
-0000001159 00000 n 
-0000001400 00000 n 
-0000001470 00000 n 
-0000001754 00000 n 
-0000001814 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000501 00000 n 
+0000000698 00000 n 
+0000000877 00000 n 
+0000001071 00000 n 
+0000001255 00000 n 
+0000001439 00000 n 
+0000001639 00000 n 
+0000001839 00000 n 
+0000002107 00000 n 
+0000002177 00000 n 
+0000002458 00000 n 
+0000002519 00000 n 
 trailer
 <<
 /ID 
-[<6a9d110f42cb9e33a3db3a8055a668a6><6a9d110f42cb9e33a3db3a8055a668a6>]
-% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+[<b10ad3a2a3157a1c9464ae71400e344a><b10ad3a2a3157a1c9464ae71400e344a>]
+% ReportLab generated PDF document -- digest (opensource)
 
-/Info 11 0 R
-/Root 10 0 R
-/Size 14
+/Info 14 0 R
+/Root 13 0 R
+/Size 17
 >>
 startxref
-3438
+4362
 %%EOF
