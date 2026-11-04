@@ -1,35 +1,65 @@
-
 export const projects = [
   {
+    title: "SubNexus",
+    type: "SaaS · Hackathon",
+    status: "FEATURED BUILD",
+    desc: "Subscription management platform with a churn-prediction workflow. The project combines a FastAPI backend with an ML pipeline to help surface customers who may be at risk.",
+    image: "/d1.png",
+    stack: ["FastAPI", "Python", "Machine Learning", "PostgreSQL"],
+    github: "https://github.com/mimansa05/SubNexus-hackathon-odoo",
+  },
+  {
+    title: "ForestLens",
+    type: "AI · Geospatial",
+    status: "IN DEVELOPMENT",
+    desc: "An AI-powered deforestation monitoring concept using multitemporal satellite imagery, with a focus on spotting land-cover change and presenting insights through a map-led dashboard.",
+    image: "/project.jpeg",
+    stack: ["Python", "Remote Sensing", "React", "Geospatial ML"],
+    github: null,
+  },
+  {
+    title: "HASTKATHA",
+    type: "Full Stack · AI",
+    status: "IN DEVELOPMENT",
+    desc: "An artisan-focused digital ecosystem for Indian traditional crafts, bringing craft discovery and commerce together with a product-price estimation pipeline.",
+    image: "/project2.jpeg",
+    stack: ["FastAPI", "PostgreSQL", "SQLAlchemy", "XGBoost"],
+    github: "https://github.com/Naincy33/HASTKATHA",
+  },
+  {
     title: "EPOCH",
-    desc: "College event management website",
+    type: "Full Stack",
+    status: "BUILT",
+    desc: "A college event-management platform designed to bring event discovery, registrations, and organizer workflows into one place.",
     image: "/epoch.jpeg",
+    stack: ["React", "Node.js", "Express", "MongoDB"],
     github: "https://github.com/Naincy33/EPOCH",
-  },
-   {
-    title: "Startup Analysis",
-    desc: "Data analysis project on Indian startups using Python",
-    image: "/isf.png", // 👈 ensure image hai public me
-    github: "https://github.com/Naincy33/indian_startup_analysis",
-  },
-  
-  {
-    title: "INNOVEST",
-    desc: "Social media app for sharing ideas",
-    image: "/innovest.jpeg",
-    github: "#", // 👈 agar repo nahi hai to baad me add kar dena
-  },
- 
-  {
-    title: "Portfolio",
-    desc: "Personal portfolio built using Next.js",
-    image: "/portfolio.png",
-    github: "https://github.com/Naincy33/PORTFOLIO",
   },
   {
     title: "DEALDROP",
-    desc: "Price comparison website using web scraping",
+    type: "Data · Web Scraping",
+    status: "BUILT",
+    desc: "A price-comparison project that collects product information from online sources and organizes it to make comparing deals easier.",
     image: "/dealdrop.jpeg",
+    stack: ["Python", "Web Scraping", "Data Processing"],
     github: "https://github.com/Naincy33/DEAL_DROP",
   },
-]
+  {
+    title: "Indian Startup Analysis",
+    type: "Data Analysis",
+    status: "BUILT",
+    desc: "A data analysis project exploring patterns in the Indian startup ecosystem through Python-based data work and visual exploration.",
+    image: "/isf.png",
+    stack: ["Python", "NumPy", "Data Analysis", "Visualization"],
+    github: "https://github.com/Naincy33/indian_startup_analysis",
+  },
+  {
+    title: "INNOVEST",
+    type: "Product Concept",
+    status: "CONCEPT",
+    desc: "A social platform concept for sharing ideas and exploring an idea-trading experience through a mobile-first product.",
+    image: "/innovest.jpeg",
+    stack: ["React Native", "Expo", "Firebase"],
+    github: "https://github.com/Naincy33/INNOVEST",
+  },
+];
