@@ -49,7 +49,7 @@ export const projects = [
     type: "SaaS · Machine Learning",
     status: "HACKATHON PROJECT",
     desc: "A subscription-management platform with a churn-prediction module that uses customer behavior and subscription data to identify customers at risk of leaving.",
-    image: "/subnexus-portfolio.jpg",
+    image: "/subnexus-portfolio.webp",
     stack: ["FastAPI", "Python", "Machine Learning"],
     github: "https://github.com/mimansa05/SubNexus-hackathon-odoo",
   },
