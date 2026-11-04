@@ -24,7 +24,7 @@ export const projects = [
     desc: "An artisan-focused digital ecosystem for Indian traditional crafts, bringing craft discovery and commerce together with a product-price estimation pipeline.",
     image: "/project2.jpeg",
     stack: ["FastAPI", "PostgreSQL", "SQLAlchemy", "XGBoost"],
-    github: null,
+    github: "https://github.com/Naincy33/HASTKATHA",
   },
   {
     title: "EPOCH",
@@ -60,6 +60,6 @@ export const projects = [
     desc: "A social platform concept for sharing ideas and exploring an idea-trading experience through a mobile-first product.",
     image: "/innovest.jpeg",
     stack: ["React Native", "Expo", "Firebase"],
-    github: null,
+    github: "https://github.com/Naincy33/INNOVEST",
   },
 ];
