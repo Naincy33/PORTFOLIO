@@ -10,27 +10,13 @@ const highlights = [
 ];
 
 const achievements = [
-  {
-    title: "Code Forge Hackathon",
-    detail: "Finalist",
-    note: "BMS College of Engineering",
-  },
-  {
-    title: "Algothon",
-    detail: "Runner-up",
-    note: "Competitive problem solving",
-  },
-  {
-    title: "BigCode",
-    detail: "Round 1 selected",
-    note: "Technical challenge",
-  },
-  {
-    title: "Generative AI Workshop",
-    detail: "Participant",
-    note: "IISc Bengaluru · 2025",
-  },
-];
+  { title: "Code Forge Hackathon", detail: "Finalist", note: "BMS College of Engineering" },
+  { title: "Algothon Coding Hackathon", detail: "Runner-up", note: "Competitive programming" },
+  { title: "BigCode Competition", detail: "Round 1 selected", note: "Technical competition" },
+  { title: "HackVega 2.0", detail: "Final Round · Round 3", note: "Shortlisted" },
+  { title: "Adobe University Hackathon 2026", detail: "Round 2", note: "Advanced to the next round" },
+  { title: "Generative AI Workshop", detail: "Participant", note: "IISc Bengaluru" },
+]
 
 export default function Home() {
   return (
