@@ -5,7 +5,7 @@ import { skills } from "@/data/skills";
 
 const highlights = [
   { value: "9.24", label: "Current CGPA" },
-  { value: "290+", label: "DSA problems solved" },
+  { value: "400+", label: "LeetCode problems solved" },
   { value: "3+", label: "Hackathon achievements" },
 ];
 
