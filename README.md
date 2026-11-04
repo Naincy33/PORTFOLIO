@@ -1,121 +1,69 @@
-# 💼 Naincy's Portfolio
+# Naincy — Developer Portfolio
 
-🌐 Live Website: https://portfolio-one-flame-78.vercel.app/
+A personal portfolio built with **Next.js** to showcase software projects, technical skills, academic milestones, and hackathon experiences.
 
----
+**Live site:** https://portfolio-one-flame-78.vercel.app/
 
-## ✨ About
+## About
 
-This is my personal **portfolio website** built using **Next.js**, where I showcase my projects, skills, and academic journey.
+I'm Naincy, a Computer Science undergraduate at B.M.S. College of Engineering, Bengaluru. I enjoy building full-stack applications and exploring practical applications of machine learning, data science, and AI.
 
-I’m a **Computer Science Engineering student** passionate about building modern, scalable, and visually appealing web applications.
+## Highlights
 
-This portfolio reflects my focus on:
+- B.Tech CSE · B.M.S. College of Engineering (2024–2028)
+- Current CGPA: 9.33
+- 290+ DSA problems solved
+- Code Forge Hackathon — Finalist
+- Algothon — Runner-up
+- BigCode — Round 1 selection
+- Generative AI Workshop — IISc Bengaluru (2025)
 
-* Clean UI & user experience
-* Real-world project building
-* Continuous learning & experimentation
+## Selected Projects
 
----
+| Project | Overview | Stack |
+|---|---|---|
+| SubNexus | Subscription management with a churn-prediction workflow | FastAPI, Python, ML |
+| ForestLens | Deforestation monitoring concept using multitemporal satellite imagery | Python, geospatial tools, React |
+| HASTKATHA | Digital ecosystem for Indian traditional crafts with a price-estimation pipeline | FastAPI, PostgreSQL, XGBoost |
+| EPOCH | College event-management platform | React, Node.js, Express, MongoDB |
+| DEALDROP | Product price comparison using web scraping | Python, scraping, data processing |
+| Indian Startup Analysis | Exploratory analysis of the Indian startup ecosystem | Python, NumPy, visualization |
+| INNOVEST | Mobile-first idea-sharing product concept | React Native, Expo, Firebase |
 
-## 🚀 Tech Stack
+Projects marked as in development or concept are works in progress; descriptions reflect the current project direction.
 
-* ⚛️ Next.js
-* ⚛️ React.js
-* 🎨 CSS (Custom Styling)
-* 🖼️ Next/Image
+## Tech Stack
 
----
+- **Languages:** Python, Java, C, JavaScript, SQL
+- **Frontend:** React.js, Next.js, HTML, CSS, Bootstrap
+- **Backend:** Node.js, Express.js, FastAPI, REST APIs, SQLAlchemy
+- **Databases:** PostgreSQL, MongoDB, MySQL
+- **AI / ML / Data:** NumPy, Matplotlib, scikit-learn, XGBoost; currently learning Pandas
+- **Geospatial:** GeoPandas, Rasterio, xarray
+- **CS Fundamentals:** DSA, OOP, DBMS, OS, Computer Networks, System Design
+- **Tools:** Git, GitHub, VS Code, Google Colab, Jupyter
 
-## 📂 Features
+## Run Locally
 
-* 🔥 Full-screen Hero Section
-* 📁 Projects Section (Dynamic Cards)
-* 🧠 Skills Section (Categorized)
-* 🎓 Academics Timeline
-* 📬 Contact Page with Form & Social Links
-* 📄 Resume Download
+    git clone https://github.com/Naincy33/PORTFOLIO.git
+    cd PORTFOLIO
+    npm install
+    npm run dev
 
----
+Open http://localhost:3000.
 
-## 🧩 Projects
+For a production build, run npm run build followed by npm start.
 
-### 🎉 EPOCH
+## Deployment
 
-College event management website
+The portfolio is deployed on Vercel. Pushes to the connected production branch trigger a deployment automatically.
 
-### 🛒 DEALDROP
+## Connect
 
-Price comparison website using web scraping
-
-### 💡 INNOVEST
-
-A social media platform for sharing ideas
-
-### 💼 Portfolio
-
-This personal portfolio built using Next.js
-
----
-
-## ⚙️ Run Locally
-
-Clone the repository:
-
-```bash
-git clone https://github.com/Naincy33/My_Portfolio.git
-cd My_Portfolio
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Start development server:
-
-```bash
-npm run dev
-```
+- **GitHub:** https://github.com/Naincy33
+- **LinkedIn:** https://www.linkedin.com/in/naincy-5313551b3/
+- **Email:** [iamnaincy33@gmail.com](mailto:iamnaincy33@gmail.com)
 
 ---
 
-## 🚀 Deployment
-
-Deployed on **Vercel**
-
-Steps:
-
-1. Push code to GitHub
-2. Import project in Vercel
-3. Deploy instantly 🚀
-
----
-
-## 📬 Connect With Me
-
-* GitHub: https://github.com/Naincy33
-* LinkedIn: https://linkedin.com/in/your-link
-* Email: [iamnaincy33@gmail.com](mailto:iamnaincy33@gmail.com)
-
----
-
-## 🌟 Highlights
-
-* Responsive & modern UI
-* Clean folder structure
-* Optimized images using Next.js
-* Smooth navigation experience
-
----
-
-## ⭐ Support
-
-If you like this project, consider giving it a ⭐ on GitHub!
-
----
-
-## 📌 Note
-
-This portfolio will be continuously updated as I build more projects and improve my skills.
+Built with curiosity and care.
