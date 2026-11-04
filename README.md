@@ -1,47 +1,57 @@
 # Naincy — Developer Portfolio
 
-A personal portfolio built with **Next.js** to showcase software projects, technical skills, academic milestones, and hackathon experiences.
+Personal portfolio built with **Next.js** to showcase projects, technical skills, internship experience, education, and achievements.
 
-**Live site:** https://portfolio-one-flame-78.vercel.app/
+## Profile
 
-## About
+B.Tech Computer Science & Engineering student at B.M.S. College of Engineering, Bengaluru (2024–2028). Focus areas: Machine Learning, Generative AI, and Full-Stack Development.
 
-I'm Naincy, a Computer Science undergraduate at B.M.S. College of Engineering, Bengaluru. I enjoy building full-stack applications and exploring practical applications of machine learning, data science, and AI.
+- CGPA: 9.24 / 10
+- Machine Learning & AI Virtual Intern, CloudCredits Technologies (May–August 2026)
+- 400+ LeetCode problems solved
+- 200+ day coding streak
 
-## Highlights
+## Projects
 
-- B.Tech CSE · B.M.S. College of Engineering (2024–2028)
-- Current CGPA: 9.33
-- 290+ DSA problems solved
-- Code Forge Hackathon — Finalist
-- Algothon — Runner-up
-- BigCode — Round 1 selection
-- Generative AI Workshop — IISc Bengaluru (2025)
-
-## Selected Projects
-
-| Project | Overview | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| SubNexus | Subscription management with a churn-prediction workflow | FastAPI, Python, ML |
-| ForestLens | Deforestation monitoring concept using multitemporal satellite imagery | Python, geospatial tools, React |
-| HASTKATHA | Digital ecosystem for Indian traditional crafts with a price-estimation pipeline | FastAPI, PostgreSQL, XGBoost |
-| EPOCH | College event-management platform | React, Node.js, Express, MongoDB |
-| DEALDROP | Product price comparison using web scraping | Python, scraping, data processing |
-| Indian Startup Analysis | Exploratory analysis of the Indian startup ecosystem | Python, NumPy, visualization |
-| INNOVEST | Mobile-first idea-sharing product concept | React Native, Expo, Firebase |
+| HASTKATHA | AI-powered ecosystem for Indian traditional crafts, with multimodal listing generation, price intelligence, RAG discovery, and heritage assistant | Next.js, FastAPI, PostgreSQL, XGBoost, Sentence Transformers, ChromaDB |
+| FailSafe-AI | Local AI-agent safety testing with adversarial scenarios, sandboxed mock tools, tracing, audits, and prompt patch validation | React, TypeScript, FastAPI, Python, LLM |
+| MeetMind AI | RAG-powered meeting assistant for contextual Q&A over meeting documents | RAG, Semantic Retrieval, LLM |
+| InnoVest | Startup idea investment platform with authentication, portfolio tracking, leaderboard, and virtual coins | React Native, Firebase |
+| Next Word Prediction | Contextual next-word prediction using NLP preprocessing and sequence modeling | Python, NLP, Deep Learning |
+| SubNexus | Subscription management platform with an ML churn-prediction module | FastAPI, Python, Machine Learning |
 
-Projects marked as in development or concept are works in progress; descriptions reflect the current project direction.
+## Technical Skills
 
-## Tech Stack
+- **Languages:** Python, Java, JavaScript, C
+- **Frontend:** React.js, Next.js, HTML, CSS, Bootstrap, React Native
+- **Backend:** Node.js, Express.js, FastAPI
+- **Databases & Core Tools:** MongoDB, MySQL, PostgreSQL, Git, GitHub, Firebase
+- **Machine Learning:** Linear Regression, Logistic Regression, Decision Trees, Random Forest, KNN, Naive Bayes, SVM, PCA, Classification, Regression, XGBoost, Model Evaluation
+- **Deep Learning:** Perceptron, ANN, Backpropagation, Gradient Descent, CNN, RNN, Activation Functions, Neural Network Training
+- **Generative AI:** RAG, Vector Search, Semantic Search, Prompt Engineering, LLM Applications, Multimodal AI
+- **Data Science:** Pandas, NumPy, Matplotlib, Scikit-Learn, EDA, Feature Engineering
+- **System Design:** Scalability, Load Balancing, Caching, CDN, Stateless Architecture, Database Replication, High-Level Design
+- **Core CS:** DSA, OOP, DBMS
 
-- **Languages:** Python, Java, C, JavaScript, SQL
-- **Frontend:** React.js, Next.js, HTML, CSS, Bootstrap
-- **Backend:** Node.js, Express.js, FastAPI, REST APIs, SQLAlchemy
-- **Databases:** PostgreSQL, MongoDB, MySQL
-- **AI / ML / Data:** NumPy, Matplotlib, scikit-learn, XGBoost; currently learning Pandas
-- **Geospatial:** GeoPandas, Rasterio, xarray
-- **CS Fundamentals:** DSA, OOP, DBMS, OS, Computer Networks, System Design
-- **Tools:** Git, GitHub, VS Code, Google Colab, Jupyter
+## Experience
+
+**Machine Learning & AI Virtual Intern — CloudCredits Technologies**  
+May 2026 – August 2026
+
+- Applied data preprocessing, model building, and evaluation techniques to real-world datasets.
+- Developed predictive analytics solutions using supervised learning algorithms.
+
+## Achievements
+
+- Finalist — Code Forge Hackathon (BMSCE)
+- Runner-up — Algothon Coding Hackathon
+- Selected — BigCode Competition (Round 1)
+- Shortlisted for Final Round (Round 3) — HackVega 2.0
+- Advanced to Round 2 — Adobe University Hackathon 2026
+- 400+ LeetCode problems solved with a 200+ day coding streak
+- Generative AI Workshop — IISc Bengaluru
 
 ## Run Locally
 
@@ -52,18 +62,10 @@ Projects marked as in development or concept are works in progress; descriptions
 
 Open http://localhost:3000.
 
-For a production build, run npm run build followed by npm start.
-
-## Deployment
-
-The portfolio is deployed on Vercel. Pushes to the connected production branch trigger a deployment automatically.
-
 ## Connect
 
-- **GitHub:** https://github.com/Naincy33
-- **LinkedIn:** https://www.linkedin.com/in/naincy-5313551b3/
-- **Email:** [iamnaincy33@gmail.com](mailto:iamnaincy33@gmail.com)
-
----
+- GitHub: https://github.com/Naincy33
+- LinkedIn: https://www.linkedin.com/in/naincy-5313551b3/
+- Email: iamnaincy33@gmail.com
 
 Built with curiosity and care.
