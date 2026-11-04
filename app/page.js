@@ -6,7 +6,7 @@ import { skills } from "@/data/skills";
 const highlights = [
   { value: "9.24", label: "Current CGPA" },
   { value: "400+", label: "LeetCode problems solved" },
-  { value: "3+", label: "Hackathon achievements" },
+  { value: "200+", label: "Day coding streak" },
 ];
 
 const achievements = [
